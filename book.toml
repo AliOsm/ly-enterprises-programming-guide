@@ -1,0 +1,6 @@
+[book]
+authors = ["Ali Hamdi Ali Fadel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Libyan Enterprises Programming Guide"
