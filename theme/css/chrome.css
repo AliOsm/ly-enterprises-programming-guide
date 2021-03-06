@@ -167,12 +167,12 @@ a > .hljs {
 }
 
 .previous {
-    float: left;
+    float: right;
 }
 
 .next {
-    float: right;
-    right: var(--page-padding);
+    float: left;
+    left: 0;
 }
 
 @media only screen and (max-width: 1080px) {
