@@ -1,6 +1,9 @@
 [book]
-authors = ["Ali Hamdi Ali Fadel"]
-language = "en"
+authors = ["weCode Group"]
+language = "ar"
 multilingual = false
 src = "src"
-title = "Libyan Enterprises Programming Guide"
+title = "دليل البرمجة للشركات الليبية"
+
+[output.html]
+additional-css = ["theme/css/rtl.css"]

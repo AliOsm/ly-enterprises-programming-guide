@@ -53,7 +53,7 @@ h5:target::before,
 h6:target::before {
     display: inline-block;
     content: "»";
-    margin-left: -30px;
+    margin-right: -30px;
     width: 30px;
 }
 
