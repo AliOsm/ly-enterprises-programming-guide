@@ -1,6 +1,6 @@
 # Libyan Enterprises Programming Guide
 
-![GitHub](https://img.shields.io/github/license/aliosm/ly-enterprises-programming-guide?style=flat-square)
+![GitHub](https://img.shields.io/github/license/AliOsm/ly-enterprises-programming-guide?style=flat-square)
 
 **Libyan Enterprises Programming Guide** is a unified guide for programming standards that crafted specially for Libyan
 enterprises.
